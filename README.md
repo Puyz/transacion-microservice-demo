@@ -7,7 +7,7 @@ POST /api/transaction HTTP/1.1
 Host: localhost:4444
 Authorization: Basic base64(username:password)
 Content-Type: application/json
-Content-Length: 42
+Content-Length: 37
 
 {
     "userId":1,
